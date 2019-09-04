@@ -1,0 +1,1 @@
+I use some popular javaScript on npm e.g chalk, yargs etc to trash everything out.This App was built with nodejs, Everything with this app is just backend(no frontend at all).I built this app to sharpen my skills on nodejs.
